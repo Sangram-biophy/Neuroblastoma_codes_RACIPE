@@ -1,0 +1,270 @@
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.064422
+2 -- 0.478804
+3 -- 0.435330
+4 -- 0.140706
+5 -- 0.449450
+6 -- 0.126039
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 511
+2 -- 4505
+3 -- 1485
+4 -- 357
+5 -- 109
+6 -- 25
+7 -- 6
+8 -- 1
+9 -- 0
+10 -- 1
+---> Actual running time : 1710.012497 seconds ( 0.475003 hours)
+The maximum running time is 23.500000.
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.337966
+2 -- 0.202794
+3 -- 0.228250
+4 -- 0.388551
+5 -- 0.242887
+6 -- 0.370265
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 675
+2 -- 3088
+3 -- 2439
+4 -- 623
+5 -- 132
+6 -- 27
+7 -- 9
+8 -- 3
+9 -- 0
+10 -- 4
+---> Actual running time : 1689.778701 seconds ( 0.469383 hours)
+The maximum running time is 23.500000.
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.383831
+2 -- 0.183483
+3 -- 0.045011
+4 -- 0.434639
+5 -- 0.176559
+6 -- 0.405783
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 880
+2 -- 3609
+3 -- 1796
+4 -- 512
+5 -- 155
+6 -- 27
+7 -- 8
+8 -- 5
+9 -- 1
+10 -- 7
+---> Actual running time : 1714.950298 seconds ( 0.476375 hours)
+The maximum running time is 23.500000.
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.197343
+2 -- 0.422306
+3 -- 0.389942
+4 -- 0.172686
+5 -- 0.403408
+6 -- 0.199704
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 431
+2 -- 3567
+3 -- 2397
+4 -- 476
+5 -- 106
+6 -- 18
+7 -- 4
+8 -- 1
+9 -- 0
+10 -- 0
+---> Actual running time : 1667.050346 seconds ( 0.463070 hours)
+The maximum running time is 23.500000.
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.382795
+2 -- 0.168869
+3 -- 0.139353
+4 -- 0.433696
+5 -- 0.095431
+6 -- 0.408497
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 983
+2 -- 3770
+3 -- 1623
+4 -- 479
+5 -- 113
+6 -- 20
+7 -- 8
+8 -- 2
+9 -- 0
+10 -- 2
+---> Actual running time : 1715.519640 seconds ( 0.476533 hours)
+The maximum running time is 23.500000.
+
+-------------------------------------------
+The topo file contains the following genes:
+Gene_ID -- Gene_Name
+1 -- PHOX2B
+2 -- SOX10
+3 -- PRRX1
+4 -- GATA3
+5 -- SNAI2
+6 -- HAND2
+-------------------------------------------
+Total number of genes = 6
+Total number of regulations = 21
+-------------------------------------------
+Amplification of the parameter ranges (production rates and thresholds)
+PHOX2B	10.000000
+SOX10	1.000000
+PRRX1	1.000000
+GATA3	1.000000
+SNAI2	1.000000
+HAND2	1.000000
+
+-------------------T_test------------------
+Gene_ID -- Probs_over_T
+1 -- 0.108449
+2 -- 0.468474
+3 -- 0.433480
+4 -- 0.124218
+5 -- 0.445123
+6 -- 0.065916
+
+-----------------Stability-----------------
+#states -- Count
+1 -- 548
+2 -- 4696
+3 -- 1367
+4 -- 303
+5 -- 63
+6 -- 18
+7 -- 2
+8 -- 1
+9 -- 1
+10 -- 1
+---> Actual running time : 1687.039035 seconds ( 0.468622 hours)
+The maximum running time is 23.500000.
